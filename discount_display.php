@@ -1,7 +1,7 @@
 <?php
-require_once('../scripts/echoHTML.php');
-require_once('../scripts/calculateUtils.php');
-require_once('../scripts/errorDisplay.php');
+require_once('scripts/echoHTML.php');
+require_once('scripts/calculateUtils.php');
+require_once('scripts/errorDisplay.php');
 $myJSFile = '../clientScripts/product_discount.js';
 $myCSSFile = '../styles/main.css'; 
 
